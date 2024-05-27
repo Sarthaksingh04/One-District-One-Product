@@ -6,6 +6,8 @@ $(window).scroll(function () {
     }
 });
 
+//this is sih repo for the project one district one product
+
 
 //typingtext
 var TxtType = function (el, toRotate, period) {
